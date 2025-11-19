@@ -61,7 +61,7 @@ The analysis uses a relational database consisting of two primary tables:
 --------------------------------------------------------------------------------
 1. Import the provided `game.csv` and `team.csv` files into your SQL environment 
    (PostgreSQL, SQLite, MySQL, etc.).
-2. Run the SQL script provided in this repository (`warriors_analysis.sql`).
+2. Run the SQL script provided in this repository (`Warriors_2015-16_Season.sql`).
 3. The output will generate a chronological report of the Warriors' best 
    offensive games.
 
